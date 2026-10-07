@@ -21,7 +21,7 @@ Fullstack Developer | Web & Mobile
 ### Mobile
 ![Mobile](https://skillicons.dev/icons?i=flutter,kotlin,swift&theme=dark)
 -
-<h3>👨‍💻 Sobre mí</h3>
+### 👨‍💻 Sobre mí
 
 ⭐   Desarrollador Junior Full-Stack.
 
@@ -33,9 +33,10 @@ Fullstack Developer | Web & Mobile
 
 🧑‍💻   Actualmente explorando tecnologías de vanguardia e integración de IA.
 
-🤝🏻   Abierto a colaborar en proyectos innovadores.
+🤝🏻   Me gusta el deporte y los videojuegos.
 
 🏃‍♂️  Me gusta el deporte y los videojuegos.
+
 -
 ```typescript
 const WhatDrivesMe = {
