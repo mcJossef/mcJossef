@@ -37,6 +37,7 @@ Fullstack Developer | Web & Mobile
 
 🏃‍♂️  Me gusta el deporte y los videojuegos.
 -
+```typescript
 const WhatDrivesMe = {
   visión: "Conseguir un buen trabajo.",
   misión: "Crear soluciones creativas para problemas complejos.",
@@ -44,6 +45,7 @@ const WhatDrivesMe = {
   crecimiento: "Expandir continuamente mis conocimientos técnicos.",
   impacto: "Contribuir a proyectos de código abierto con valor real.",
 };
+```
 -
 ### 🛠 Tech Skills
 * 💻 **Frontend:** JavaScript | HTML | CSS | React | Vue.js
