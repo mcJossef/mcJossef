@@ -21,7 +21,7 @@ Fullstack Developer | Web & Mobile
 ### Mobile
 ![Mobile](https://skillicons.dev/icons?i=flutter,kotlin,swift&theme=dark)
 -
-👨‍💻 Sobre mí
+<h3>👨‍💻 Sobre mí</h3>
 
 ⭐   Desarrollador Junior Full-Stack.
 
